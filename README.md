@@ -1,6 +1,6 @@
 Hi there 👋 I'm Karthik
 - 🔭 I’m currently working on a Tech Platform and an On Demand Platform
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Full Stack Development!
 - 💬 Ask me about anything in Web Development
 - 📫 How to reach me: karthickpremoth@gmail.com
 
